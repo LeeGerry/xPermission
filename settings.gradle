@@ -1,2 +1,3 @@
 rootProject.name = "xPermission"
 include ':app'
+include ':xpm'
