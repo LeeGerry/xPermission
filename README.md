@@ -1,5 +1,5 @@
 # xPermission
-1. Add maven "https://jitpack.io".
+1. Add maven jitpack.io.
 ```
 allprojects {
     repositories {
